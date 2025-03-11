@@ -1,9 +1,10 @@
-## Análise do Comportamento dos Clientes em E-commerce de Moda: Comparação entre Aplicativo Móvel e Site
+## Desafios de Machine Learning: Análises e Modelos
+
 <p align="center">
-  <img src="https://esoft.inf.br/images/desenvolvimento-web-aplicativo.png" alt=" " />
+  <img src="https://assets.dio.me/qc5KPp_XDOP596YsVKMAe8vmSDkponJewj0TdKp-XUk/f:webp/q:80/L2FydGljbGVzL2NvdmVyL2Y3NmY4YWU3LWY1NzYtNDA4ZC1hZjNiLThlNDM4YmQ4OGY1ZS5wbmc" alt=" " />
 </p>
 
-Este projeto tem como objetivo analisar o comportamento dos clientes de uma empresa de e-commerce de moda com sede em Nova York, que vende roupas online e oferece consultoria de estilo presencial. A análise exploratória dos dados investigará o engajamento dos usuários nas plataformas disponíveis – aplicativo móvel e site – considerando métricas como frequência de acesso, taxa de conversão, tempo médio de navegação e preferências de compra. Além disso, será realizada uma comparação de desempenho entre os dois canais, buscando identificar qual proporciona maior retorno para a empresa e onde deve ser focado o investimento para otimizar a experiência do cliente.
+Este repositório contém uma série de desafios de Machine Learning, com o objetivo de aplicar técnicas e algoritmos para resolver problemas reais de análise de dados. A pasta reúne projetos que envolvem análise exploratória de dados, construção de modelos preditivos e avaliação de desempenho, utilizando abordagens como regressão, classificação e clustering. Cada desafio inclui uma análise detalhada das variáveis do problema, seleção de características relevantes e comparação de diferentes algoritmos, com o intuito de identificar as melhores soluções para cada cenário. O foco é aprimorar as habilidades em machine learning, entender as nuances dos dados e explorar métodos para otimizar os resultados, buscando sempre as melhores práticas para análise e implementação de modelos.
 
 ## Justificativa
 
