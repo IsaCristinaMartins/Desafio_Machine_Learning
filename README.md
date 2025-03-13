@@ -8,18 +8,7 @@ Este repositório contém uma série de desafios de Machine Learning, com o obje
 
 ## Justificativa
 
-Este projeto se justifica pela necessidade de identificar qual plataforma – aplicativo ou site – gera maior engajamento e conversão de vendas. Com base na análise do comportamento dos clientes, a empresa poderá direcionar seus investimentos de forma estratégica, otimizando a experiência do usuário e aumentando a lucratividade.
-
-Neste projeto, vamos abordar as seguintes questões:
-
-<div align=" ">
-
-- 2.1: Análise da relação entre preço, corte, cor e clareza do diamante.
-- 2.2: A influência entre peso (carat), preço e corte do diamante.
-- 2.3: A influência das proporções (depth e table) no preço.
-
-
-</div>
+Justifica-se esse projeto pela crescente importância de aplicar técnicas de Machine Learning na solução de problemas complexos de análise de dados. Em um contexto onde as empresas enfrentam grandes volumes de dados e precisam tomar decisões rápidas e informadas, o uso de modelos preditivos e análise exploratória se torna fundamental para gerar insights valiosos. Além disso, a diversidade dos desafios abordados no repositório permite uma aplicação prática e aprofundada de diferentes algoritmos de aprendizado de máquina, o que contribui significativamente para o desenvolvimento e aprimoramento das habilidades em ciência de dados. A realização deste projeto visa não apenas melhorar a acuracidade e eficiência dos modelos, mas também explorar a aplicabilidade de diversas abordagens para resolver problemas reais, proporcionando aprendizado contínuo e aplicabilidade imediata no mercado de trabalho.
 
 ## Desenvolvedores
 
@@ -38,30 +27,12 @@ O projeto será desenvolvido utilizando a metodologia CRISP-DM, seguindo os segu
 
 </div>
 
-O projeto também é dividido em duas entregas, a saber:
-
-<div align = " ">
-
-- Análise Exploratória de Dados (EDA): entendimento das variáveis que influenciam o MPG e identificação de padrões nos dados através de hipóteses, visualizações e insights.
-- Análise comparativa de modelos: construção de modelos de aprendizado de máquina para previsão de consumo, com métricas de desempenho para avaliação da performance.
-
-</div>
-
 ## Resultados Esperados
 
-Espera-se que a análise revele padrões de uso distintos entre o aplicativo móvel e o site, como diferenças na taxa de conversão, no tempo médio de navegação e na frequência de compras. Além disso, os dados podem indicar qual canal oferece maior retorno para a empresa, auxiliando na decisão sobre onde concentrar investimentos. Também é possível identificar oportunidades de melhoria na experiência do usuário, como ajustes na interface, personalização de recomendações e estratégias para aumentar a fidelização dos clientes.
+Espera-se que, com este projeto, eu aprimore minhas habilidades na aplicação de técnicas de Machine Learning, como regressão, classificação e clustering, em problemas reais. Vou desenvolver uma compreensão mais profunda sobre análise exploratória de dados, seleção de modelos e otimização de desempenho. Além disso, terei a oportunidade de ganhar experiência na escolha de métricas de avaliação, no uso de técnicas avançadas como regularização e validação cruzada, e no tratamento de desafios como overfitting. Esse processo me permitirá resolver problemas complexos de maneira mais eficaz e me preparar para atuar com confiança em contextos desafiadores.
 
-## Dicionário de dados
 
-| Nome da Coluna          | Nome em Português      | Tipo de Dado    |                    Descrição                            | Valores Possíveis                    |
-|-------------------------|------------------------|-----------------|---------------------------------------------------------|--------------------------------------|
-| Email                   | E-mail                 | string (qualit) | Endereço de e-mail do cliente.                          | Texto                                |
-| Address                 | Endereço               | string (qualit) | Endereço residencial do cliente.                        | Texto                                |
-| Avatar                  | Avatar                 | string (qualit) | Imagem de perfil do cliente.                            | URL ou caminho de imagem             |
-| Avg. Session Length     | Duração Média   Sessão | float (quanti)  | Duração média  sessões  de  navegação do cliente (min). | 0.0 – 60.0+ min                      |
-| Time on App             | Tempo no Aplicativo    | float (quanti)  | Tempo total gasto no aplicativo móvel (min).            | 0.0 – 60.0+ min                      |
-| Time on Website         | Tempo no Site          | float (quanti)  | Tempo total gasto no site (min).                        | 0.0 – 60.0+ min                      |
-| Length of Membership    | Tempo de Associação    | float (quanti)  | Tempo de associação do cliente com a empresa (anos).    | 0.0 – 10.0+ anos                     |
-| Yearly Amount Spent     | Valor Gasto Anualmente | float (quanti)  | Quantia gasta anualmente pelo cliente (USD).            | $0.00 – $10,000.00+                  |
+## Projeto 
 
+Desafio proposto pelo curso >> Python for Data Science and Machine Learning Bootcamp  -  Udemy <<
 

@@ -1,4 +1,5 @@
 ## Análise do Comportamento dos Clientes em E-commerce de Moda: Comparação entre Aplicativo Móvel e Site
+
 <p align="center">
   <img src="https://esoft.inf.br/images/desenvolvimento-web-aplicativo.png" alt=" " />
 </p>
@@ -9,16 +10,6 @@ Este projeto tem como objetivo analisar o comportamento dos clientes de uma empr
 
 Este projeto se justifica pela necessidade de identificar qual plataforma – aplicativo ou site – gera maior engajamento e conversão de vendas. Com base na análise do comportamento dos clientes, a empresa poderá direcionar seus investimentos de forma estratégica, otimizando a experiência do usuário e aumentando a lucratividade.
 
-Neste projeto, vamos abordar as seguintes questões:
-
-<div align=" ">
-
-- 2.1: Análise da relação entre preço, corte, cor e clareza do diamante.
-- 2.2: A influência entre peso (carat), preço e corte do diamante.
-- 2.3: A influência das proporções (depth e table) no preço.
-
-
-</div>
 
 ## Desenvolvedores
 
